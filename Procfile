@@ -1,0 +1,1 @@
+one-off: python memx_watcher.py
